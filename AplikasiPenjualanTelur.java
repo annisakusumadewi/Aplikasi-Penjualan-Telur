@@ -36,7 +36,7 @@ public class AplikasiPenjualanTelur {
 
         System.out.println("\n--- Order Summary ---");
         System.out.println("Nama: " + name);
-        System.out.println("Pesan BeRrapa Kilogram: " + eggQuantity);
+        System.out.println("Pesan Berapa Kilogram: " + eggQuantity);
         System.out.println("Kontak Whatsapp: " + whatsappContact);
         System.out.println("Alamat: " + address);
         System.out.println("Metode Pembayaran: " + paymentMethod);
